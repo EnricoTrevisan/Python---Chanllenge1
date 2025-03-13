@@ -1,0 +1,18 @@
+# Criar um programa que o usuário irá digitar o nome e a idade.
+# No final, será mostrado uma mensagem de bem-vindas e as coms as
+# informações passadas.
+
+print("-----Programa SENAI-----")
+
+# Definição
+nome = ""
+idade = 0
+
+# Entrada e saída (eu acho)
+nome = input ("Para iniciar o programa, por favor, digite seu nome: ")
+idade = input ("Agora, digite sua idade atual: ")
+# o input já vai decidir a definição / variável
+
+# Saída
+print("Olá", nome, "você possuí a idade de", idade, "anos. Seja bem-vindo ao SENAI Jairo Candido Mauá!") 
+print("-----Fim do Programa-----")
